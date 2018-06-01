@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/selenium-java-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/selenium-server-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/opencsv-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/xlsxFunctionsProjectJar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Java_WorkSpace/lib/xlsx jars/xlsx/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/ProgressBar.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
