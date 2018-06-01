@@ -1,0 +1,169 @@
+{
+   "PLN_ID": "689811519223656838",
+   "EFF_DT": "2017-12-27",
+   "CRT_TS": "2018-02-21T09:34:16",
+   "ORIG_EFF_DT": "2017-12-27",
+   "STTS_DSCR": "UnApproved",
+   "CVR_ID": "203000",
+   "LST_UPDT_TS": "2018-02-21T09:34:16",
+   "PLN_NM": "DisaabiilitySTDpla12n00216",
+   "ERISA_PLN":    {
+      "ERISA_PLN_NUM": 0,
+      "ERISA_PLN_YB_MO_NUM": 1,
+      "ERISA_PLN_YB_DAY_NUM": 1,
+      "ERISA_PLN_YE_MO_NUM": 1,
+      "ERISA_PLN_YE_DAY_NUM": 1,
+      "ERISA_PLN_NM": "A",
+      "ERISA_FED_ID": "A"
+   },
+   "OWNG_ENTY":    [
+            {
+         "OWNG_ENTY_ID": "1689012",
+         "OWNG_ENTY_TYP_CD": "CUSTOMER"
+      },
+            {
+         "OWNG_ENTY_ID": "1679012",
+         "OWNG_ENTY_TYP_CD": "PROSPECT"
+      }
+   ],
+   "ADMN":    {
+      "ERISA_IND": "Y",
+      "RT_GUAR_DUR_CNT": 0,
+      "RT_GUAR_DUR_CD": "MTH",
+      "RT_GUAR_DUR_OTH_IND": "Y",
+      "PRIR_CARY_IND": "Y",
+      "CERT_SRS_CD": 1,
+      "MET_CO_OWN_CD": "MUTL",
+      "PRTCP_IND": "Y",
+      "XPRN_COMB_CVR_IND": "Y",
+      "PREV_ADMN_SYS_CNVR_IND": "Y",
+      "POL_NUM": "A",
+      "CUST_EMPE_DFN_OPT_CD": "ASSOC",
+      "CERT_INCL_ERISA_PLN_YR_IND": "Y",
+      "CERT_INCL_ERISA_WRD_IND": "Y",
+      "CERT_INCL_ERISA_PLN_NUM_IND": "Y",
+      "PLN_ORIG_CD": "NEWISSUE",
+      "MULT_PROD_PREM_DISC_IND": "Y",
+      "ENRL":       [
+         {
+		 "ENRL_TYP_CD": "1"
+		 },
+         {
+		 "ENRL_TYP_CD": "1"
+		 },
+         {
+		 "ENRL_TYP_CD": "1"
+		 },
+                  {
+            "ENRL_TYP_CD": "1",
+            "ENRL_FREQ_CD": 0,
+            "ENRL_PRD_OTH_IND": "Y",
+            "ENRL_FREQ_CNT": 0,
+            "ENRL_FREQ_WIN_CD": "DY",
+            "ENRL_FREQ_WIN_CNT": 0
+         }
+      ],
+      "LGL_PLN_ADMN": {"MET_POL_ID": "A"}
+   },
+   "BEN": {},
+   "PRVD":    {
+      "CERT_ISS_TYP_CD": "1",
+      "TRST_AFLT_CD": "1",
+      "GVRN_SITUS_BODY_NM": "A",
+      "SECT_125_PLN_IND": "Y",
+      "QLF_EVNT_IND": "Y",
+      "ELGBL_WP_IND": "Y",
+      "CVR_EFF_DT_RUL_CD": "14",
+      "CVR_EFF_DT_RUL_OTH_DSCR": "A",
+      "PRSNT_MBR_ELGBL_WP_IND": "Y",
+      "PRSNT_MBR_ELGBL_WP_CNT": 0,
+      "PRSNT_MBR_ELGBL_WP_DUR_OTH_IND": "Y",
+      "PRSNT_MBR_ELGBL_WP_DUR_UOM_CD": "DY",
+      "FUTR_MBR_ELGBL_WP_IND": "Y",
+      "FUTR_MBR_ELGBL_WP_CNT": 0,
+      "FUTR_MBR_ELGBL_WP_DUR_OTH_IND": "Y",
+      "FUTR_MBR_ELGBL_WP_DUR_UOM_CD": "DY",
+      "RHIRE_WP_WV_IND": "Y",
+      "RHIRE_WIN_TM_PRD_CNT": 0,
+      "RHIRE_WIN_TM_PRD_UOM_CD": "DY",
+      "RHIRE_WIN_PRD_OTH_IND": "Y",
+      "FULL_TM_MIN_UNIT_CNT": 0,
+      "FULL_TM_DUR_OTH_IND": "Y",
+      "FULL_TM_UOM_CD": "DY",
+      "FULL_TM_WIN_PRD_CD": "D",
+      "PART_TM_MIN_UNIT_CNT": 0,
+      "PART_TM_DUR_OTH_IND": "Y",
+      "PART_TM_UOM_CD": "DY",
+      "PART_TM_WIN_PRD_CD": "M",
+      "DOM_PRTNR_PROOF_RQR_CD": "AFFDVTST",
+      "DOM_PRTNR_PRTNR_TYP_CD": "SAME",
+      "DOM_PRTNR_TMFRAM_CNT": 0,
+      "DOM_PRTNR_TMFRAM_CD": "MTH",
+      "DOM_PRTNR_TMFRAM_IMMED_IND": "Y",
+      "DOM_PRTNR_TMFRAM_OTH_IND": "Y",
+      "PLN_TYP_CD": "CORE",
+      "CVR_CONT_PRVD":       [
+                  {
+            "CVR_CONT_CD": "1",
+            "CVR_CONT_OTH_DSCR": "A",
+            "CVR_CONT_PRVD_TYP_DSCR": "Illness"
+         },
+                  {
+            "CVR_CONT_CD": "1",
+            "CVR_CONT_PRVD_TYP_DSCR": "Layoff"
+         },
+                  {
+            "CVR_CONT_CD": "1",
+            "CVR_CONT_OTH_DSCR": "A",
+            "CVR_CONT_PRVD_TYP_DSCR": "Leave of Absence",
+            "CVR_CONT_TRM_DT_RUL_CD": "1"
+         },
+                  {
+            "CVR_CONT_CD": "1",
+            "CVR_CONT_OTH_DSCR": "A",
+            "CVR_CONT_PRVD_TYP_DSCR": "Part Time"
+         },
+                  {
+            "CVR_CONT_CD": "1",
+            "CVR_CONT_OTH_DSCR": "A",
+            "CVR_CONT_PRVD_TYP_DSCR": "Strike"
+         }
+      ],
+      "ELGBL_CLASS": [      {
+         "ELGBL_CNT": 0,
+         "ACT_CNT": 0,
+         "ELGBL_CLASS_DSCR": "A"
+      }],
+      "QLF_EVNT":       [
+                  {
+            "QLF_EVNT_CD": "BEGFMLA",
+            "QLF_EVNT_OTH_DSCR": "A"
+         },
+                  {
+            "QLF_EVNT_CD": "BEGFMLA",
+            "QLF_EVNT_OTH_DSCR": "A"
+         },
+                  {
+            "QLF_EVNT_CD": "BEGFMLA",
+            "QLF_EVNT_OTH_DSCR": "A",
+            "QLF_EVNT_GRC_PRD_CNT": 0,
+            "QLF_EVNT_GRC_PRD_UOM_CD": "DY",
+            "QLF_EVNT_CVR_STRT_RUL_CD": "1",
+            "QLF_EVNT_CVR_STRT_RUL_DSCR": "A",
+            "QLF_EVNT_GRC_PRD_OTH_IND": "Y"
+         },
+                  {
+            "QLF_EVNT_CD": "BEGFMLA",
+            "QLF_EVNT_OTH_DSCR": "A"
+         }
+      ],
+      "TRM_RUL": [      {
+         "CVR_TRM_DT_RUL_CD": "11",
+         "CVR_TRM_DT_RUL_OTH_DSCR": "A"
+      }],
+      "ELGBL_TYP": [{"ELGBL_TYP_CD": "AAWFULLTM"}],
+      "XTRA_TERR_GVRN_BODY": [{"XTRA_TERR_GVRN_BODY_NM": "A"}]
+   },
+   "UPDT_BY": "pd11",
+   "SYSTEM": "GPR"
+}

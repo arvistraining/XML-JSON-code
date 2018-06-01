@@ -1,0 +1,134 @@
+[
+
+    {
+
+        "veh": [
+
+            {
+
+                "mke": "CHEVROLET",
+
+                "mdl": "SILVERA",
+
+                "vehTyp": "P",
+
+                "yr": "2009",
+
+                "cov": [
+
+                    {
+
+                        "amt": "50000",
+
+                        "cd": "PD",
+
+                        "typ": "Limit"
+
+                    },
+
+                    {
+
+                        "amt": "100000/300000",
+
+                        "cd": "BI",
+
+                        "typ": "Limit"
+
+                    },
+
+                    {
+
+                        "amt": "25/750",
+
+                        "cd": "SUBT",
+
+                        "typ": "Limit"
+
+                    },
+
+                    {
+
+                        "amt": "50",
+
+                        "cd": "TOWING",
+
+                        "typ": "Limit"
+
+                    },
+
+                    {
+
+                        "amt": "1000",
+
+                        "cd": "COLL",
+
+                        "typ": "Deductible"
+
+                    },
+
+                    {
+
+                        "amt": "No Cov",
+
+                        "cd": "GLASS_BB",
+
+                        "typ": "Indicator"
+
+                    },
+
+                    {
+
+                        "amt": "1000",
+
+                        "cd": "COMP",
+
+                        "typ": "Deductible"
+
+                    }
+
+                ]
+
+            }
+
+        ],
+
+        "pnum": "868444702",
+
+        "psfx": "0",
+
+        "extPNum": "868444702",
+
+        "extPSfx": "0",
+
+        "lob": "A",
+
+        "rst": "CA",
+
+        "msgCd": "SUCCESS",
+
+        "msgDsc": "Policy Retrieved",
+
+        "dist": "",
+
+        "pdThruDt": "04/09/2016",
+
+        "effDt": "03/10/2016",
+
+        "expDt": "03/10/2017",
+
+        "zip": "",
+
+        "tprm": "0.00",
+
+        "pstat": "INACTIVE",
+
+        "styp": "",
+
+        "mnCmb": "M",
+
+        "pcPhNum": "1-800-422-4272"
+
+    }
+
+]
+

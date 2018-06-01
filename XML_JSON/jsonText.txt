@@ -1,0 +1,285 @@
+{
+  "provider": {
+    "number": "2833360MAGONDER999",
+    "self": "https://int.services.eos.metlife.com/eosservices/providers/2833360MAGONDER999",
+    "name": {
+      "firstName": "RICHARD",
+      "LastName": "GONDEK"
+    },
+    "genderCode": "Male",
+    "specialties": [
+      {
+        "typeCode": "216",
+        "description": "GENERAL DENTIST"
+      },
+      {
+        "typeCode": "299",
+        "description": "NO SPECIALITY"
+      }
+    ],
+    "degrees": [
+      {
+        "university": "DOCTOR OF DENTAL MEDICINE",
+        "typeCode": "DMD"
+      }
+    ],
+    "distance": {
+      "value": "",
+      "unitCode": ""
+    },
+    "phoneNumbers": [
+      {
+        "countryCode": "",
+        "number": "4132833360",
+        "typeCode": "",
+        "useCode": "PHONE"
+      },
+      {
+        "number": "0000000000",
+        "typeCode": "",
+        "countryCode": "",
+        "useCode": "FAX"
+      }
+    ],
+    "addresses": [
+      {
+        "typeCode": "",
+        "addressLine1": "1436 MAIN ST",
+        "addressLine2": "",
+        "city": "PALMER",
+        "postalCode": "01069",
+        "stateCode": "MA",
+        "countryCode": ""
+      }
+    ],
+    "extension": {
+      "incentives": [
+        {
+          "typeCode": "000"
+        },
+        {
+          "typeCode": "000"
+        }
+      ],
+      "activeDate": "1991-06-23",
+      "governmentIssuedIds": [
+        {
+          "typeCode": "TAXID",
+          "value": "025526915"
+        }
+      ],
+      "treatmentFacilities": [
+        {
+          "facilityName": "RICHARD M GONDEK DMD",
+          "Number": ""
+        }
+      ],
+      "rcArea": "0000",
+      "implantTraining": "N",
+      "notes": [
+        {
+          "comment": "CLAIMS MAY SHOW THE NPI NUMBER AS THE TIN"
+        },
+        {
+          "comment": "SENT FEE INCREASE DENIAL LETTER 6-24-08"
+        }
+      ],
+      "eraEnabled": "No",
+      "eftEnabled": "",
+      "isPaperlessOptionEnabled": false,
+      "bNoticeDate": "",
+      "license": {
+        "number": "15823",
+        "expirationDate": "2018-03-31"
+      },
+      "specialNeeds": "",
+      "correctProvider": "0000000",
+      "contactedDetails": {
+        "name": {
+          "firstName": "NANCY",
+          "lastName": ""
+        },
+        "date": "2008-03-27",
+        "contactedTime": ""
+      },
+      "updateOperator": {
+        "date": "2016-04-27",
+        "contactedTime": "123929",
+        "number": "B-PRFOILE UPD"
+      },
+      "vendor": {
+        "identificationNumber": "V001,V016",
+        "typeCode": "300",
+        "date": "2016-01-01",
+        "scheduleNumber": "09833",
+        "description": "Client specific"
+      },
+      "preferredProvider": "Accepts Met Assignment",
+      "vendors": [
+        {
+          "typeCode": "V001",
+          "vendorDescription": "MetLife"
+        },
+        {
+          "typeCode": "V016",
+          "vendorDescription": "State of Tennessee"
+        }
+      ],
+      "mecHistory": [
+        {
+          "ppo": "P",
+          "number": "06567",
+          "date": "1993-06-25"
+        },
+        {
+          "ppo": "P",
+          "number": "06517",
+          "date": "1994-11-01"
+        },
+        {
+          "ppo": "P",
+          "number": "08517",
+          "date": "1996-02-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "09774",
+          "date": "1997-01-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "09877",
+          "date": "1998-12-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "02018",
+          "date": "2000-07-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "02048",
+          "date": "2001-01-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "02148",
+          "date": "2002-02-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "02311",
+          "date": "2003-04-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "08211",
+          "date": "2003-10-01"
+        },
+        {
+          "ppo": "P",
+          "PPO_number": "02411",
+          "date": "2004-04-01"
+        },
+        {
+          "ppo": "P",
+          "number": "02611",
+          "date": "2005-04-01"
+        },
+        {
+          "ppo": "P",
+          "number": "02811",
+          "date": "2006-04-01"
+        },
+        {
+          "ppo": "P",
+          "number": "08670",
+          "date": "2006-09-01"
+        },
+        {
+          "ppo": "P",
+          "number": "08122",
+          "date": "2007-04-01"
+        },
+        {
+          "ppo": "P",
+          "number": "00121",
+          "date": "2008-04-01"
+        },
+        {
+          "ppo": "P",
+          "number": "00419",
+          "date": "2009-07-01"
+        },
+        {
+          "ppo": "P",
+          "number": "00761",
+          "date": "2010-10-01"
+        },
+        {
+          "ppo": "P",
+          "number": "01171",
+          "date": "2013-01-01"
+        },
+        {
+          "ppo": "P",
+          "number": "09833",
+          "date": "2016-01-01"
+        },
+        {
+          "ppo": "C",
+          "number": "09833",
+          "date": "2016-01-01"
+        }
+      ],
+      "isPaperlessOptionEnabledDescription": "No"
+    },
+    "statusCode": "ACTIVE",
+    "networks": [
+      {
+        "typeCode": "N001",
+        "networkDescription": "PDP"
+      },
+      {
+        "typeCode": "N002",
+        "networkDescription": "PDP"
+      },
+      {
+        "typeCode": "N003",
+        "networkDescription": "PDP"
+      },
+      {
+        "typeCode": "N004",
+        "networkDescription": "FITZHARRIS"
+      },
+      {
+        "typeCode": "N005",
+        "networkDescription": "STATE OF TENNESSEE"
+      },
+      {
+        "typeCode": "N006",
+        "networkDescription": "APPLE"
+      },
+      {
+        "typeCode": "N007",
+        "networkDescription": "N007"
+      },
+      {
+        "typeCode": "N008",
+        "networkDescription": "N008"
+      },
+      {
+        "typeCode": "N010",
+        "networkDescription": "N010"
+      },
+      {
+        "typeCode": "N0201",
+        "networkDescription": "N0201"
+      },
+      {
+        "typeCode": "N0301",
+        "networkDescription": "N0301"
+      }
+    ]
+  }
+}

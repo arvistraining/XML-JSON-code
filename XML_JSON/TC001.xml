@@ -1,0 +1,229 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:CDFCustomerCreate">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:processRequest soapenv:encodingStyle="http://xml.apache.org/xml-soap/literalxml">
+         <InputXML>
+            <CDFWS>
+               <action tc="001">CDFCustomerCreate</action>
+               <param>
+                  <CompanyHierarchy>
+                     <CorporateName>Thendral Testing</CorporateName>
+                     <CustomerNumber>9520186</CustomerNumber>
+                     <FederalTaxID>984317587</FederalTaxID>
+                  </CompanyHierarchy>
+                  <Contract>
+                     <ContractForService>
+                        <EffectiveDate>01/01/2014</EffectiveDate>
+                     </ContractForService>
+                  </Contract>
+                  <Customer_extension>
+                     <INST_RegionCode>5</INST_RegionCode>
+                     <INST_RegionID>IDI</INST_RegionID>
+                     <DistChannel>M</DistChannel>
+                     <ClientID>11</ClientID>
+                     <CustomerTypeCode>V</CustomerTypeCode>
+                     <AgeCalcMoNum>1</AgeCalcMoNum>
+                     <FranchiseCd>ABCD</FranchiseCd>
+                     <SICCode>25</SICCode>
+                     <!--LifeSITUSStateCd>L</LifeSITUSStateCd-->
+                     <HealthSITUSStateCd>H</HealthSITUSStateCd>
+                     <GrpFactsInd>Y</GrpFactsInd>
+                     <SalesOffcCd>25</SalesOffcCd>
+                  </Customer_extension>
+                  <SystemKeyInfo>
+                     <SystemKeyInfo_Extension>
+                        <INST_ReinsuranceIDType/>
+                     </SystemKeyInfo_Extension>
+                  </SystemKeyInfo>
+                  <GroupInfo>
+                     <DoingBusinessAsName>Thendral 33</DoingBusinessAsName>
+                  </GroupInfo>
+                  <Address>
+                     <StreetAddress>66 PA E2E Shop1 Place</StreetAddress>
+                     <City>Gettysburg</City>
+                     <State>PA</State>
+                     <PostalCode>17324</PostalCode>
+                  </Address>
+                  <Annotation>
+                     <OperatorIdentifier>GBFISG</OperatorIdentifier>
+                  </Annotation>
+                  <Contract_Extension>
+                     <INST_AcquisitionSeqNum>547819</INST_AcquisitionSeqNum>
+                  </Contract_Extension>
+               </param>
+            </CDFWS>
+         </InputXML>
+      </urn:processRequest>
+   </soapenv:Body>
+</soapenv:Envelope><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:CDFCustomerCreate">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:processRequest soapenv:encodingStyle="http://xml.apache.org/xml-soap/literalxml">
+         <InputXML>
+            <CDFWS>
+               <action>CDFCustomerCreate</action>
+               <param>
+                  <CompanyHierarchy>
+                     <CorporateName>Thendral Testing</CorporateName>
+                     <CustomerNumber>9520186</CustomerNumber>
+                     <FederalTaxID>984317587</FederalTaxID>
+                  </CompanyHierarchy>
+                  <Contract>
+                     <ContractForService>
+                        <EffectiveDate>01/01/2014</EffectiveDate>
+                     </ContractForService>
+                  </Contract>
+                  <Customer_extension>
+                     <INST_RegionCode>5</INST_RegionCode>
+                     <INST_RegionID>IDI</INST_RegionID>
+                     <DistChannel>M</DistChannel>
+                     <ClientID>11</ClientID>
+                     <CustomerTypeCode>V</CustomerTypeCode>
+                     <AgeCalcMoNum>1</AgeCalcMoNum>
+                     <FranchiseCd>ABCD</FranchiseCd>
+                     <SICCode>25</SICCode>
+                     <!--LifeSITUSStateCd>L</LifeSITUSStateCd-->
+                     <HealthSITUSStateCd>H</HealthSITUSStateCd>
+                     <GrpFactsInd>Y</GrpFactsInd>
+                     <SalesOffcCd>25</SalesOffcCd>
+                  </Customer_extension>
+                  <SystemKeyInfo>
+                     <SystemKeyInfo_Extension>
+                        <INST_ReinsuranceIDType/>
+                     </SystemKeyInfo_Extension>
+                  </SystemKeyInfo>
+                  <GroupInfo>
+                     <DoingBusinessAsName>Thendral 33</DoingBusinessAsName>
+                  </GroupInfo>
+                  <Address>
+                     <StreetAddress>66 PA E2E Shop1 Place</StreetAddress>
+                     <City>Gettysburg</City>
+                     <State>PA</State>
+                     <PostalCode>17324</PostalCode>
+                  </Address>
+                  <Annotation>
+                     <OperatorIdentifier>GBFISG</OperatorIdentifier>
+                  </Annotation>
+                  <Contract_Extension>
+                     <INST_AcquisitionSeqNum>547819</INST_AcquisitionSeqNum>
+                  </Contract_Extension>
+               </param>
+            </CDFWS>
+         </InputXML>
+      </urn:processRequest>
+   </soapenv:Body>
+</soapenv:Envelope><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:CDFCustomerCreate">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:processRequest soapenv:encodingStyle="http://xml.apache.org/xml-soap/literalxml">
+         <InputXML>
+            <CDFWS>
+               <action>CDFCustomerCreate</action>
+               <param>
+                  <CompanyHierarchy>
+                     <CorporateName>Thendral Testing</CorporateName>
+                     <CustomerNumber>9520186</CustomerNumber>
+                     <FederalTaxID>984317587</FederalTaxID>
+                  </CompanyHierarchy>
+                  <Contract>
+                     <ContractForService>
+                        <EffectiveDate>01/01/2014</EffectiveDate>
+                     </ContractForService>
+                  </Contract>
+                  <Customer_extension>
+                     <INST_RegionCode>5</INST_RegionCode>
+                     <INST_RegionID>IDI</INST_RegionID>
+                     <DistChannel>M</DistChannel>
+                     <ClientID>11</ClientID>
+                     <CustomerTypeCode>V</CustomerTypeCode>
+                     <AgeCalcMoNum>1</AgeCalcMoNum>
+                     <FranchiseCd>ABCD</FranchiseCd>
+                     <SICCode>25</SICCode>
+                     <!--LifeSITUSStateCd>L</LifeSITUSStateCd-->
+                     <HealthSITUSStateCd>H</HealthSITUSStateCd>
+                     <GrpFactsInd>Y</GrpFactsInd>
+                     <SalesOffcCd>25</SalesOffcCd>
+                  </Customer_extension>
+                  <SystemKeyInfo>
+                     <SystemKeyInfo_Extension>
+                        <INST_ReinsuranceIDType/>
+                     </SystemKeyInfo_Extension>
+                  </SystemKeyInfo>
+                  <GroupInfo>
+                     <DoingBusinessAsName>Thendral 33</DoingBusinessAsName>
+                  </GroupInfo>
+                  <Address>
+                     <StreetAddress>66 PA E2E Shop1 Place</StreetAddress>
+                     <City>Gettysburg</City>
+                     <State>PA</State>
+                     <PostalCode>17324</PostalCode>
+                  </Address>
+                  <Annotation>
+                     <OperatorIdentifier>GBFISG</OperatorIdentifier>
+                  </Annotation>
+                  <Contract_Extension>
+                     <INST_AcquisitionSeqNum>547819</INST_AcquisitionSeqNum>
+                  </Contract_Extension>
+               </param>
+            </CDFWS>
+         </InputXML>
+      </urn:processRequest>
+   </soapenv:Body>
+</soapenv:Envelope><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:CDFCustomerCreate">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:processRequest soapenv:encodingStyle="http://xml.apache.org/xml-soap/literalxml">
+         <InputXML>
+            <CDFWS>
+               <action>CDFCustomerCreate</action>
+               <param>
+                  <CompanyHierarchy>
+                     <CorporateName>Thendral Testing</CorporateName>
+                     <CustomerNumber>9520186</CustomerNumber>
+                     <FederalTaxID>984317587</FederalTaxID>
+                  </CompanyHierarchy>
+                  <Contract>
+                     <ContractForService>
+                        <EffectiveDate>01/01/2014</EffectiveDate>
+                     </ContractForService>
+                  </Contract>
+                  <Customer_extension>
+                     <INST_RegionCode>5</INST_RegionCode>
+                     <INST_RegionID>IDI</INST_RegionID>
+                     <DistChannel>M</DistChannel>
+                     <ClientID>11</ClientID>
+                     <CustomerTypeCode>V</CustomerTypeCode>
+                     <AgeCalcMoNum>1</AgeCalcMoNum>
+                     <FranchiseCd>ABCD</FranchiseCd>
+                     <SICCode>25</SICCode>
+                     <!--LifeSITUSStateCd>L</LifeSITUSStateCd-->
+                     <HealthSITUSStateCd>H</HealthSITUSStateCd>
+                     <GrpFactsInd>Y</GrpFactsInd>
+                     <SalesOffcCd>25</SalesOffcCd>
+                  </Customer_extension>
+                  <SystemKeyInfo>
+                     <SystemKeyInfo_Extension>
+                        <INST_ReinsuranceIDType/>
+                     </SystemKeyInfo_Extension>
+                  </SystemKeyInfo>
+                  <GroupInfo>
+                     <DoingBusinessAsName>Thendral 33</DoingBusinessAsName>
+                  </GroupInfo>
+                  <Address>
+                     <StreetAddress>66 PA E2E Shop1 Place</StreetAddress>
+                     <City>Gettysburg</City>
+                     <State>PA</State>
+                     <PostalCode>17324</PostalCode>
+                  </Address>
+                  <Annotation>
+                     <OperatorIdentifier>GBFISG</OperatorIdentifier>
+                  </Annotation>
+                  <Contract_Extension>
+                     <INST_AcquisitionSeqNum>547819</INST_AcquisitionSeqNum>
+                  </Contract_Extension>
+               </param>
+            </CDFWS>
+         </InputXML>
+      </urn:processRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

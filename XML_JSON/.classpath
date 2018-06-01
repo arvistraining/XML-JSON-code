@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/xml-apis-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/opencsv-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/xlsxFunctionsProjectJar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/jars/lib/xlsx jars/xlsx/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/jcabi-xml-0.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/.m2/repository/org/json/json/20171018/json-20171018.jar" sourcepath="C:/Users/IBM_ADMIN/.m2/repository/org/json/json/20171018/json-20171018-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.json"/>
+			<attribute name="maven.artifactId" value="json"/>
+			<attribute name="maven.version" value="20171018"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
